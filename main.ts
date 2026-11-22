@@ -5,7 +5,7 @@ const text =
   "A library book came back forty years late, and no fine was paid. " +
   "In the margin of page 112, in the librarian's own handwriting: " +
   "'Do not shelve this. It is still being read.' " +
-  "She never checked it out. Tonight she opens it. " +
+  "No card shows her name. Tonight she opens it. " +
   "One new line, in pencil, in her hand. She never wrote it.";
 
 const outDir =
