@@ -6,7 +6,7 @@ const text =
   "In the margin of page 112, in the librarian's own handwriting: " +
   "'Do not shelve this. It is still being read.' " +
   "She never checked it out. Tonight she opens it. " +
-  "One new line, in pencil, was not there this morning.";
+  "One new line, in pencil, in her hand. She never wrote it.";
 
 const outDir =
   process.env.MAKEFUN_OUTPUT_PATH !== undefined
